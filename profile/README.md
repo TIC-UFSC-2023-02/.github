@@ -6,11 +6,11 @@
 Seja bem-vindo ao repositório central para projetos de programação da UFSC-TIC. Aqui, os estudantes compartilham, colaboram e aprendem juntos.
 
 ## 📌 Índice
-- [Objetivos](#objetivos)
-- [Diretrizes](#diretrizes)
-- [Contribuições](#contribuições)
-- [Código de Conduta](#código-de-conduta)
-- [Recursos](#recursos)
+- [Objetivos](#-objetivos)
+- [Diretrizes](#-diretrizes)
+- [Contribuições](#-contribuições)
+- [Código de Conduta](#-código-de-conduta)
+- [Recursos](#-recursos)
 
 ## 🎯 Objetivos
 1. Centralizar e estruturar projetos e pseudocódigos dos alunos.
